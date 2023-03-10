@@ -1,4 +1,4 @@
 /**
- * Spring Framework configuration files.
+ * Spring MVC REST controllers.
  */
-package com.gl.platform.config;
+package com.gl.platform.web.rest;
